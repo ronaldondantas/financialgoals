@@ -1,7 +1,10 @@
 package br.com.satnad.financialgoals;
 
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.astuetz.PagerSlidingTabStrip;
 
 public class MainActivity extends AppCompatActivity {
 
